@@ -12,6 +12,8 @@ JCF(Java Collections Framework)는 이러한 데이터, 자료구조인 컬렉�
 
 다음은 Java 컬렉션 프레임워크의 상속 구조를 나타낸다.
 
+------
+
  - Collections
     - List
         - LinkedList
@@ -25,6 +27,8 @@ JCF(Java Collections Framework)는 이러한 데이터, 자료구조인 컬렉�
     - HashTable
     - HashMap
     - SortedMap - TreeMap
+    
+------
     
 Collection 인터페이스는 List, Set, Queue로 크게 3가지 상위 인터페이스로 분류할 수 있다.
 
@@ -50,6 +54,8 @@ Collection 인터페이스는 List, Set, Queue로 크게 3가지 상위 인터�
     - HashTable
     - HashMap
     - TreeMap
+
+------
 
 1. List 인터페이스
     > 요소들의 순서를 저장하여 색인(Index)를 사용하여 특정 위치에 요소를 삽입하거나 접근할 수 있으며 중복 요소를 허용한다.
